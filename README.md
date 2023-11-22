@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/israaouahi]
+- 👨‍💻 All of my projects are available at **https://github.com/israaouahi**
 
 - 📫 How to reach me **israeouahi5@gmail.com**
 
