@@ -1,3 +1,5 @@
+<img src="banner.png">
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at **https://github.com/israaouahi**
